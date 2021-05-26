@@ -1,6 +1,29 @@
-section {
-	color : blue;
-	background-color : red;
+h3 {
+	color: black;
+	font-size: 25px;
+	font-family: sans-serif;
+	text-align: right;
+}
+#title1{
+	border-color: black;
+	border-width: 2px;
+	padding:5px 5px 5px 5px;
+	margin:10px 5px 5px 550px;
+	border-style: solid;
+	border-radius: 10px;
+	background-color: #03adfc;
+	text-align: center;
+}
+#title2{
+	border-color: #8003fc;
+	background-color: #8003fc;
+}
+#title3{
+	border-color: #fc0362;
+	background-color: #fc0362;
+}
+p{
+	font-size: 18px;
 }
 /*Desktop layout*/
 
@@ -8,6 +31,3 @@ section {
 
 /*Mobile layout*/
 
-.section {
-	background-color: blue;
-}
